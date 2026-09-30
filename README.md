@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Khushi 👋
 
-<!--
-**Khushi-8076/Khushi-8076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst | SQL | Python | Excel | Power BI
 
-Here are some ideas to get you started:
+I'm a B.Tech Information Technology graduate/fresher passionate about
+turning data into meaningful insights and building interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Power BI, Matplotlib
+- **Database:** PostgreSQL, MySQL
+- **Excel:** Pivot Tables, VLOOKUP, Data Cleaning
+- **Power BI:** DAX, Power Query, Dashboard Development
+- **Other:** GitHub, Jupyter Notebook
+
+## 📊 Featured Projects
+
+🔹 **Bank Loan Analysis Dashboard**
+- Power BI dashboard for analyzing loan applications, funded amount,
+  repayments and loan performance.
+
+🔹 **Customer Shopping Behavior Analysis**
+- Data analysis project using Python, SQL, Excel and Power BI.
+- Created dashboards to understand customer purchasing behavior.
+
+🔹 **Meta Ad Performance Dashboard**
+- Analyzed advertising performance and campaign metrics using Power BI.
+
+🔹 **PhonePe Analysis**
+- Data analysis and visualization project based on PhonePe transactions.
+
+### 📫 Connect With Me
+
+- LinkedIn: [www.linkedin.com/in/khushid24]
+- GitHub: [Khushi-8076](https://github.com/Khushi-8076)
+
+---
+
+⭐ Thanks for visiting my profile!
