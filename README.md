@@ -15,20 +15,20 @@ B.Tech Information Technology graduate and aspiring Data Analyst with hands-on e
 
 ## 📊 Featured Projects
 
-🔹 **Bank Loan Analysis Dashboard**(https://github.com/Khushi-8076/DAVIS_LAB-FILE/tree/main/Bank%20Loan%20Report%20Project)
+🔹 [Bank Loan Analysis Dashboard](https://github.com/Khushi-8076/DAVIS_LAB-FILE/tree/main/Bank%20Loan%20Report%20Project)
 
 - Power BI dashboard for analyzing loan applications, funded amount,
   repayments and loan performance.
 
-🔹 **Customer Shopping Behavior Analysis**(https://github.com/Khushi-8076/DAVIS_LAB-FILE/tree/main/Bank%20Loan%20Report%20Project)
+🔹 [Customer Shopping Behavior Analysis](https://github.com/Khushi-8076/DAVIS_LAB-FILE/tree/main/Bank%20Loan%20Report%20Project)
 
 - Data analysis project using Python, SQL, Excel and Power BI.
 - Created dashboards to understand customer purchasing behavior.
 
-🔹 **Meta Ad Performance Dashboard**(https://github.com/Khushi-8076/meta-ad-performance-dashboard)
+🔹 [Meta Ad Performance Dashboard](https://github.com/Khushi-8076/meta-ad-performance-dashboard)
 - Analyzed advertising performance and campaign metrics using Power BI.
 
-🔹 **PhonePe Analysis**(https://github.com/Khushi-8076/PhonePe_Analysis)
+🔹 [PhonePe Analysis](https://github.com/Khushi-8076/PhonePe_Analysis)
 - Data analysis and visualization project based on PhonePe transactions.
 
 ### 📫 Connect With Me
