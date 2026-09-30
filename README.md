@@ -1,9 +1,7 @@
 # Hi, I'm Khushi 👋
 
 ## Aspiring Data Analyst | SQL | Python | Excel | Power BI
-
-I'm a B.Tech Information Technology graduate/fresher passionate about
-turning data into meaningful insights and building interactive dashboards.
+B.Tech Information Technology graduate and aspiring Data Analyst with hands-on experience in SQL, Python, Excel, and Power BI. I enjoy transforming raw data into meaningful insights and interactive dashboards.
 
 ## 🛠️ Skills
 
@@ -17,18 +15,20 @@ turning data into meaningful insights and building interactive dashboards.
 
 ## 📊 Featured Projects
 
-🔹 **Bank Loan Analysis Dashboard**
+🔹 **Bank Loan Analysis Dashboard**(https://github.com/Khushi-8076/DAVIS_LAB-FILE/tree/main/Bank%20Loan%20Report%20Project)
+
 - Power BI dashboard for analyzing loan applications, funded amount,
   repayments and loan performance.
 
-🔹 **Customer Shopping Behavior Analysis**
+🔹 **Customer Shopping Behavior Analysis**(https://github.com/Khushi-8076/DAVIS_LAB-FILE/tree/main/Bank%20Loan%20Report%20Project)
+
 - Data analysis project using Python, SQL, Excel and Power BI.
 - Created dashboards to understand customer purchasing behavior.
 
-🔹 **Meta Ad Performance Dashboard**
+🔹 **Meta Ad Performance Dashboard**(https://github.com/Khushi-8076/meta-ad-performance-dashboard)
 - Analyzed advertising performance and campaign metrics using Power BI.
 
-🔹 **PhonePe Analysis**
+🔹 **PhonePe Analysis**(https://github.com/Khushi-8076/PhonePe_Analysis)
 - Data analysis and visualization project based on PhonePe transactions.
 
 ### 📫 Connect With Me
